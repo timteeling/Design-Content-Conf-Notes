@@ -23,6 +23,13 @@
 - Write better. Write short declarative sentences
 - Ask purpose, keep/get rid of, any duplication?, anything unnecessary?, how do you justify decisions?
 
+### Responsive navigation
+- don't rely on the hamburger
+- dont' avoid the hard stuff
+- check out progressive reveal (overflow drawer)
+- look into toggles up/down arrows instead of hamburger
+- look into skip links
+
 
 ## Examples to look into and follow up on
 - Capital One - components & design patterns
