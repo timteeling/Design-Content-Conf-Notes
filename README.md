@@ -21,6 +21,7 @@
 - NEEED an OWNER for content overall
 - Rewrite, not necessarily redesign
 - Write better. Write short declarative sentences
+- Ask purpose, keep/get rid of, any duplication?, anything unnecessary?, how do you justify decisions?
 
 
 ## Examples to look into and follow up on
