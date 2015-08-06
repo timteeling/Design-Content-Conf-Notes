@@ -82,3 +82,27 @@
 - know your worth
 - don't bite off too much
 - jump at opportunities
+
+### Kathy Wagner - Mapping content to customer journeys
+- personas, customer journeys
+- why arent they integrated into content correctly?
+- No excuses, if its wrong you don't know HOW
+- What is **purpose?** to inspire, entertain, educate, persuade, inform, signpost
+- Topics: subject matter that interests your audience
+- Messages: brand (emotional why do i want to do business / spend money )vs product (intellectural - how is this what I need?)
+- Think concepts, NOT copy at first
+- you need personas + customer journey + company
+- awareness->research->decision making->support->advocacy
+- What copy will support specific persona on their journey with the company?
+- Assign a purpose to each stage of the journey
+- Quick fix - Keep it high level and look @ all personas what are common truths and shared experiences
+- Quick fix - Get specific, whats the main persona, stage, or content element
+- Great examples from this presentation
+
+### Haig Armen - Designing Mineblock: Merging the physical and digital
+- Meta products are physical objects that have controllers, senses & actuators all connected to the cloud
+- Basically IoT... Examples: Nest, Fitbit,
+- Created Mineblock - Mindcraft hosted on a raspberry pi
+- problems to overcome with IoT: UX and interface is hard to interact with a non native object
+- Data, information, and privacy are all challenges
+- Thinking by tinkering. (make to think, think to make)
