@@ -106,3 +106,16 @@
 - problems to overcome with IoT: UX and interface is hard to interact with a non native object
 - Data, information, and privacy are all challenges
 - Thinking by tinkering. (make to think, think to make)
+
+### Tizzy Asher - content patterns that get heard in a noisy world
+- what's not relevant is noise
+- travel: everyone does it differently and is worried how much it costs
+- how do you personalize at scale?
+- assumptions are hard: business traveling vs vacation
+- challenges: overwhelming at the amount of opinions, what's the right one for the users needs?
+- infer carefully
+- feedback on customer on boarding. Send emails and ask for feedback with simple questions to identify what works and what doesn't 
+
+### Karen McGrane - Adaptive content context and controversy
+- tailor content to device, context, person
+Context: time, location, velocity, humidity, temperature 
