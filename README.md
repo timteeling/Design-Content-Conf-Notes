@@ -35,6 +35,36 @@
 - google docs, [gather content](https://gathercontent.com/), [draft](https://draftin.com/) offer better collaboration and offer APIs to connect content to CMS
 
 
-## Examples to look into and follow up on
+### Examples to look into and follow up on
 - Capital One - components & design patterns
 - Starbucks - style guide
+
+## Sessions Day 1
+
+### Steve Fisher
+- What do you do
+- What is painful
+- What do you love
+- What do you wish
+- Reality vs vision
+- GOALS what are you trying to achieve WHY??
+
+### Sara Wachter-Boettcher
+- Make things for humans, *whole* humans - think of good *and* bad
+- Rethink normal
+- Our personas are too narrow. they're too idealized
+- What if we're wrong about our target audience? Do we leave people out or alienate them?
+- We are quick to force categorization. It could be false categorization
+- Don't assume feelings, put the user in charge
+- Don't overstep your purpose. Focus on the core problem
+- Don't overinflate your importance as an organization
+- Get rid of your ego, you *do* need new users, you don't exist without them
+- Kindness is swallowing your pride if it'll help our users
+- Every field in a form carries **weight**
+- Check out *Forms that Work* by Caroline Jarrett
+- Find the fractures
+- Edge cases can have an impact - they should be stress cases
+- Stress cases show the weaknesses of our work
+- Make sure the content doesn't get taken out of context
+- What's the ideal scenario, and was is the worst scenario?
+- Empathy->Compassion it takes action, courage, practice, and to get over yourself
