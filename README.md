@@ -49,7 +49,7 @@
 - Reality vs vision
 - GOALS what are you trying to achieve WHY??
 
-### Sara Wachter-Boettcher
+### Sara Wachter-Boettcher - Everybody Hurts: Content for Kindness
 - Make things for humans, *whole* humans - think of good *and* bad
 - Rethink normal
 - Our personas are too narrow. they're too idealized
@@ -68,3 +68,17 @@
 - Make sure the content doesn't get taken out of context
 - What's the ideal scenario, and was is the worst scenario?
 - Empathy->Compassion it takes action, courage, practice, and to get over yourself
+
+### Mallory O'Connor - Crafting the Killer Content Chasm
+-  [Canadian Pacifc Railway](http://www.cpr.ca/en) ([Case Study](http://www.habaneroconsulting.com/customer-portals/canadian-pacific))
+-  Sample org chart for content for enterprise (took photo)
+-  TRAIN - write for the web, know the CMS, HTML style guides
+-  Agile Dev for content: constant comm, light docs, visibility/accountability, fixed timelines
+-  **GatherContent** - for content writers, translations. HUD for where pieces are and has export to CMS ([Resources](https://gathercontent.com/resources)) ([For in-house](https://gathercontent.com/how-it-works-for-teams))
+
+### James White - Masters of the Universe
+- Take a shot. reach out.
+- No idea is too silly
+- know your worth
+- don't bite off too much
+- jump at opportunities
