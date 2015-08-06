@@ -31,6 +31,10 @@
 - look into skip links
 
 
+### Content workflow
+- google docs, [gather content](https://gathercontent.com/), [draft](https://draftin.com/) offer better collaboration and offer APIs to connect content to CMS
+
+
 ## Examples to look into and follow up on
 - Capital One - components & design patterns
 - Starbucks - style guide
