@@ -49,7 +49,7 @@
 - Reality vs vision
 - GOALS what are you trying to achieve WHY??
 
-### Sara Wachter-Boettcher - Everybody Hurts: Content for Kindness
+### Sara Wachter-Boettcher - [Everybody Hurts: Content for Kindness](http://www.slideshare.net/Saraboettcher/everybody-hurts-content-for-kindness?qid=27d92aab-bbc8-47c0-98e5-ff11f81c57fe&v=qf1&b=&from_search=2)
 - Make things for humans, *whole* humans - think of good *and* bad
 - Rethink normal
 - Our personas are too narrow. they're too idealized
@@ -69,7 +69,7 @@
 - What's the ideal scenario, and was is the worst scenario?
 - Empathy->Compassion it takes action, courage, practice, and to get over yourself
 
-### Mallory O'Connor - Crafting the Killer Content Chasm
+### Mallory O'Connor - [Crafting the Killer Content Chasm](http://www.slideshare.net/MalloryOConnor/crossing-the-killer-content-chasm-with-agile-teams)
 -  [Canadian Pacifc Railway](http://www.cpr.ca/en) ([Case Study](http://www.habaneroconsulting.com/customer-portals/canadian-pacific))
 -  Sample org chart for content for enterprise (took photo)
 -  TRAIN - write for the web, know the CMS, HTML style guides
@@ -119,3 +119,45 @@
 ### Karen McGrane - Adaptive content context and controversy
 - tailor content to device, context, person
 Context: time, location, velocity, humidity, temperature 
+
+## Sessions Day 2
+
+### [Dana Chisnell](http://usabilityworks.com/) - Creative Mornings
+- Design affects presidential election -> 2000 Bush/Gore ballot
+- Big blunders: Healthcare.gov, mortgage crisis, 2004 election
+- US Digital Service was formed to try to prevent these issues
+- Good design keeps costs and support costs down in long term 
+
+### Eileen Webb - Building a better authoring experience
+- Why are you breaking my site? title lengths, text on images, contrast
+- **Idea:** syntax highlighting for textareas for authors??
+- Content guidelines, and who they are for
+- Create them because too much is kept in your head
+- look for repeating patterns in your content
+- Balancing act -> write enough but not too much that its a burden to read
+- Names give context -> try replacing title and body to give better context: ie Event Name, Event Description
+- Try to reduce redundancy (if date is its own field, don't include it in teaser copy)
+- Give image fields context and give options for art direction w/ multiple fields or tell more about crops
+- Describe purpose of category and tag taxonomies and guide usage so no duplicates or similarites that are unneeded
+- Nobody reads PDFs -> hard to version, hard to be accessible when you need it at a moments notice
+- AX: author experience
+- Build with people, not for people
+- Add link to styleguide to edit screen in CMS
+
+### Denise Jacobs - [Banish your inner critic](http://www.slideshare.net/denisejacobs/banish-your-inner-critic-design-content-2015)
+- Everyone experiences self doubt
+- Inner critic can lead to anxiety depression and stress
+- FEAR = False evidence appearing real
+- Fear is the enemy of creativity
+- Stop comparing yourself to others
+- Imposter syndrome paradox - you only will experience it when you are competant and skilled
+- perfection and procrastination feed each other in an infinite loop
+- you need brain management->use anxiety for good vs destruction
+- should/ought vs choose/will
+- remember successes, have critic for revisioning process, not idea process
+- power poses affect your brain waves
+- satisfice
+- be bad or make it ugly on purpose
+- mind trick: get ready to do it, it will help you do it and start
+- structured procrastination & procrastiwork
+- rescuetime.com, get concentrating.com, heyfocus.com
