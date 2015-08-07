@@ -161,3 +161,67 @@ Context: time, location, velocity, humidity, temperature
 - mind trick: get ready to do it, it will help you do it and start
 - structured procrastination & procrastiwork
 - rescuetime.com, get concentrating.com, heyfocus.com
+
+### Rebekah Cancino - Next Level Collaboration: Future of content and design
+- set the stage for working together
+- You need openness for collaboration
+Personal,active,outward,exponential
+- Be better open to ideas of others. Stop saying no or brushing things off right away 
+- improv! Yes and
+- Faucet and then funnel
+- Own what you don't know. Ask questions and don't be a know it all. You'll learn more
+- Resist googling when person knows the answer
+- choose outcomes over ego
+- Ask teammate about their work and see what you learn
+- customer needs feeling thinking doing
+- take best idea off the table to see past preconceived notions 
+- stop throwing things over the wall
+
+### Parker McClean - Accessible user experiences
+- Try looking at site with CSS turned off. 
+- alt tags aren't that helpful to screen readers. Need to better orient user
+- Skip links: skip to nav skip to content skip to footer
+
+### Samantha Warren - Guerilla Design Tactics
+- Design systems, not pages
+- Organizational problems *are* design and content problems
+- if you can't change it, change your attitude
+- Think like a guerrilla: flexible, fast , and persistent
+- don't wait for an invitation to do the work you want
+- frameworks, tactics and tools
+- framework: discover, analyze, execute, measure, iterate. tactics are strategies fore each phase
+- flexibility for context
+- to be impactful, you neeed to be flexible and resourceful under pressure
+- there is no one way
+- survey the landscape - ask questions to get background
+- turn standard methods on their head: [story map](https://medium.com/design-story/story-map-3cc64033128e) & wireflow map
+- make it feel real: prototypes
+- speed limit story: just need to see speed limit sign, not jargon and long copy of the law
+- speak the language, pay attention and find out what matters to the client
+- persuasive persistence
+- share: keynote to present and have a conversation. don't throw it over the wall
+
+### Jared Spool - Is design metrically opposed?
+- metrics vs your gut with design decisions
+- what metrics are worth measuring? assumptions aren't necessarily worth it.
+- metric is an observation, assumptions are inferences
+- observation->inferences->design decision
+- basic vs advanced search - there is only search
+- don't stop at the first inference
+- research tunrs inferences into observations
+- Measure: something we can count. Metric: a measure we track. Analytics: A measure software tracks
+- most analtyics are metric amplifiers - we can make the data tell any story
+- GA can't tell you **why?**
+- Converion rate can increase with a smaller audience and that is misleading especially when you care about revenue
+- conversion rate assumes the person purchases on first visit. it also doesn't tell you **why?**
+- achieving satisfaction is too low of a bar
+- comparing data thats incomplete is pointless
+- customer journey map: measure frustration to delight for every step of turning potential customer from first touch through their entire customer experience
+- frustration comes from confusing content, incomplete info, hidden features, hidden nav, confusing nav
+- customize analytics by **counting error message deliveries**
+- qualitative usability research + quantitative custom metrics
+- focus quantitative research on frustration
+- continually question what the metric is trying to tell you
+- design must drive the metric collection, not the other way around
+- [Gallup CE11 survey](bit.ly/gallup-ce11)
+- delight goes hand in hand with engagement
