@@ -83,7 +83,7 @@
 - don't bite off too much
 - jump at opportunities
 
-### Kathy Wagner - Mapping content to customer journeys
+### Kathy Wagner - [Mapping content to customer journeys](http://www.slideshare.net/Content_Strategy_Inc/mapping-content-to-customer-journeys-kathy-wagner-design-and-content-conference-2015)
 - personas, customer journeys
 - why arent they integrated into content correctly?
 - No excuses, if its wrong you don't know HOW
